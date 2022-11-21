@@ -1,2 +1,3 @@
-# ADR
-Exemple of an Architecure Decision Record
+# Architecture Decision Record (ADR)
+
+Vous trouverez ici la base de documentations des décisions d'architecture de Flatchr.
